@@ -1,4 +1,4 @@
-\\`default_nettype none
+//'default_nettype none
 
 module TestPatternGenerator
   (input  logic [9:0] row, col,
